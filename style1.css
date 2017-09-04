@@ -121,8 +121,7 @@ a:hover{
 .slldeshow{
 	width: 1000px;
 	height: auto;
-	/*border:7px solid;
-	border-color:  #989898;*/
+	
 }
 
 .slldeshow img{
@@ -162,7 +161,7 @@ a:hover{
 	line-height: 95px;
 	border-radius: 100px;
 	opacity: 0.3;
-	/*border:1px solid black;*/
+	
 }
 
 .center #prev:hover,
@@ -443,7 +442,6 @@ strike{
 .button{
 	float: right;	
 	padding: 10px;
-	/*background-color: #989898;*/
 	color:white;
 	border-radius: 7px;
 	margin-right: 10px;
@@ -476,7 +474,7 @@ strike{
 	width: 100%;
 	height: auto;
 	float: left;
-	/*margin-top: 10%;*/
+	
 	
 }
 
